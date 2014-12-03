@@ -6,6 +6,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.041686,
+          38.905655
+        ]
+      },
+      "properties": {
+        "marker-symbol": "pitch",
+        "name": "Routeam",
+        "address": "1200 18th St NW Suite 700"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.043449,
           38.905656
         ]
