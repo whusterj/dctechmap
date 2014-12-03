@@ -6,6 +6,51 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.043449,
+          38.905656
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "3Advance",
+        "address": "1900 M St NW #311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038813,
+          38.906445
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dog-park",
+        "name": "TrackMaven",
+        "address": "1710 Rhode Island Ave NW #800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021914,
+          38.904228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dog-park",
+        "name": "Contactually",
+        "address": "1105 7th Street NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.028078,
           38.898315
         ]
