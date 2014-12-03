@@ -6,6 +6,66 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.0429695,
+          38.9069328
+        ]
+      },
+      "properties": {
+        "marker-symbol": "town-hall",
+        "name": "Sunlight Labs",
+        "address": "1818 N St NW, Washington, DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.083675,
+          38.89115
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "OPOWER",
+        "address": "1515 N Courthouse Rd, Arlington, VA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.084640,
+          38.961639
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Rock Creek Strategic Marketing",
+        "address": "2 Wisconsin Circle, Suite 1000, Chevy Chase, MD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.070588,
+          38.896992
+        ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "Deloitte Digital",
+        "address": "1919 N Lynn St, Arlington, VA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.041705,
           38.897354
         ]
