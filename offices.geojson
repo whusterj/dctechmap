@@ -6,6 +6,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.041705,
+          38.897354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "town-hall",
+        "name": "18F",
+        "address": "1800 F St NW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.041686,
           38.905655
         ]
