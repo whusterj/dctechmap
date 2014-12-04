@@ -1,6 +1,6 @@
 dctechmap
 =========
-The DC Tech Map is a map of startups, coworking spaces, digital agencies and corporate technology offices throughout the DC area. 
+The DC Tech Map is a map of startups, coworking spaces, digital agencies and corporate technology offices throughout the DC area. Click the [offices.geojson](https://github.com/josephmosby/dctechmap/blob/master/offices.geojson) link to check it out.
 
 We currently feature the following firms:
 * 18F
