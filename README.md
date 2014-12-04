@@ -36,7 +36,6 @@ We currently feature the following firms:
 }
 ```
 
-The `marker-symbol` tag comes from [Mapbox's Maki library](https://www.mapbox.com/maki/). Hover over the icon you want to get the tag name.
+The `marker-symbol` tag comes from [Mapbox's Maki library](https://www.mapbox.com/maki/). Hover over the icon you want to get the tag name. Make sure to validate that your GeoJSON works using the [GeoJSON linter](http://geojsonlint.com/).
 
-3. Validate that your GeoJSON works using the [GeoJSON linter](http://geojsonlint.com/).
-4. Submit a pull request and I'll plug you in.
+Submit a pull request and I'll plug you in.
