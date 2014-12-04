@@ -34,8 +34,8 @@ We currently feature the following firms:
     "address": "700 12th St NW"
   }
 }
- ```
+```
 
-   The `marker-symbol` tag comes from [Mapbox's Maki library](https://www.mapbox.com/maki/). Hover over the icon you want to get the tag name.
+The `marker-symbol` tag comes from [Mapbox's Maki library](https://www.mapbox.com/maki/). Hover over the icon you want to get the tag name.
 3. Validate that your GeoJSON works using the [GeoJSON linter](http://geojsonlint.com/).
 4. Submit a pull request and I'll plug you in.
