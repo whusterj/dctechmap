@@ -6,6 +6,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.033113,
+          38.902224
+          ]
+      },
+      "properties": {
+        "marker-symbol": "commercial",
+        "name": "nclud",
+        "address": "1424 K St NW #300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.0429695,
           38.9069328
         ]
