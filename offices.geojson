@@ -165,6 +165,21 @@
         "name": "APCO Worldwide",
         "address": "700 12th St NW"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021987,
+          38.8994106
+        ]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Aspire @ WeWork Chinatown",
+        "address": "718 7th St NW"
+      }
     }
   ]
 }
